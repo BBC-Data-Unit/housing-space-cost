@@ -21,3 +21,9 @@ In December 2017 **Dan Wainwright** [reported on the cost of floor space in rent
 * Infographic: How much space can you rent for £100/month?
 * Interactive widget: Where can you afford to live? Try our housing calculator to see where you could rent or buy
 
+## Related stories/repos
+
+* ['Sky-high' rental hotspots across England revealed](https://github.com/BBC-Data-Unit/rent-hotspots)
+* [No DSS: Most flat shares refuse benefit claimants](https://github.com/BBC-Data-Unit/no-dss)
+* [All story repos tagged 'housing' from this account can be found here](https://github.com/search?q=topic%3Ahousing+org%3ABBC-Data-Unit&type=Repositories)
+
