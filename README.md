@@ -13,7 +13,7 @@ In December 2017 **Dan Wainwright** [reported on the cost of floor space in rent
 
 * OpenRent: [UK Rental Data on Average Floor Area per £100 Rent](https://blog.openrent.co.uk/average-floor-area-of-rented-properties-per-100-rent/)
 * Google sheet: [UK Rental Data on Average Floor Area per £100 Rent](https://docs.google.com/spreadsheets/d/e/2PACX-1vRdRgHApmV2EIMZFmU1ctNFTp9nWEtg0YQj6CGTVFEYQSTJi6W6kY8n7Ys5nqmOcj2_R1PDIcoSl8rt/pubhtml)
-* CSV: [ll properties in sample](https://github.com/BBC-Data-Unit/housing-space-cost/blob/master/OpenRent%20data%20on%20floor%20space%20-%20All.csv)
+* CSV: [All properties in sample](https://github.com/BBC-Data-Unit/housing-space-cost/blob/master/OpenRent%20data%20on%20floor%20space%20-%20All.csv)
 * ONS: [House prices: how much does one square metre cost in your area?](https://visual.ons.gov.uk/house-prices-how-much-does-one-square-metre-cost-in-your-area/)
 
 ## Visualisation and interactivity
